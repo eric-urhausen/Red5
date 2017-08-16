@@ -2,8 +2,8 @@
 //Variables for connecting to your database.
 //These variable values come from your hosting account.
 
-	mysql_connect('localhost','test-eric','r3dRover!') or die(mysql_error());
-	mysql_select_db('test-industry') or die(mysql_error());
+	//mysql_connect(server, username, password) or die(mysql_error());
+	//mysql_select_db(database) or die(mysql_error());
 
 function history(){
 
